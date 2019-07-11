@@ -1,1 +1,0 @@
-{"ast":null,"code":"import counter from './counter';\nexport { counter };","map":{"version":3,"sources":["F:\\next\\with-rematch-app\\shared\\models\\index.js"],"names":["counter"],"mappings":"AAAA,OAAOA,OAAP,MAAoB,WAApB;AAEA,SAASA,OAAT","sourcesContent":["import counter from './counter'\n\nexport { counter }\n"]},"metadata":{},"sourceType":"module"}

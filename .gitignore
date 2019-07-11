@@ -7,3 +7,4 @@ tracelog/
 tmp/
 build/
 node_modules/
+.next/
